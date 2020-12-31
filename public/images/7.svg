@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 458 412" width="458" height="412">
+	<defs>
+		<radialGradient id="grd1" gradientUnits="userSpaceOnUse"  cx="304.91" cy="361.3" r="327.63">
+			<stop offset="0" stop-color="#a0a0a0"  />
+			<stop offset="1" stop-color="#a8a8a8"  />
+		</radialGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="186.37" y1="320.65" x2="186.37" y2="411.72">
+			<stop offset="0" stop-color="#000000" stop-opacity="0" />
+			<stop offset="0.5" stop-color="#000000"  />
+			<stop offset="1" stop-color="#000000" stop-opacity="0" />
+		</linearGradient>
+		<radialGradient id="grd3" gradientUnits="userSpaceOnUse"  cx="378.83" cy="365.65" r="70.37">
+			<stop offset="0" stop-color="#000000"  />
+			<stop offset="1" stop-color="#000000" stop-opacity="0" />
+		</radialGradient>
+		<radialGradient id="grd4" gradientUnits="userSpaceOnUse"  cx="85.1" cy="365.65" r="70.37">
+			<stop offset="0" stop-color="#000000"  />
+			<stop offset="1" stop-color="#000000" stop-opacity="0" />
+		</radialGradient>
+		<linearGradient id="grd5" gradientUnits="userSpaceOnUse"  x1="79.97" y1="108.04" x2="146.48" y2="339.79">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="0.7" />
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0" />
+		</linearGradient>
+		<linearGradient id="grd6" gradientUnits="userSpaceOnUse"  x1="212.5" y1="356.25" x2="187.5" y2="128.75">
+			<stop offset="0" stop-color="#000000"  />
+			<stop offset="1" stop-color="#000000" stop-opacity="0" />
+		</linearGradient>
+		<linearGradient id="grd7" gradientUnits="userSpaceOnUse"  x1="248.76" y1="32.8" x2="242.51" y2="283.69">
+			<stop offset="0" stop-color="#fafafa"  />
+			<stop offset="0.5" stop-color="#a8a8a8"  />
+			<stop offset="1" stop-color="#cdcdcd"  />
+		</linearGradient>
+		<radialGradient id="grd8" gradientUnits="userSpaceOnUse"  cx="519.08" cy="-150.75" r="365.54">
+			<stop offset="0" stop-color="#a3a3a3"  />
+			<stop offset="1" stop-color="#4c4c4c"  />
+		</radialGradient>
+		<linearGradient id="grd9" gradientUnits="userSpaceOnUse"  x1="253.26" y1="180.74" x2="373.25" y2="276.99">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="0.13" />
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0.05" />
+		</linearGradient>
+		<linearGradient id="grd10" gradientUnits="userSpaceOnUse"  x1="261.76" y1="183.63" x2="266.17" y2="345.18">
+			<stop offset="0" stop-color="#ffffff"  />
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0" />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1);stroke: #5a5a5a;stroke-linecap:round;stroke-linejoin:round;stroke-width: 10 } 
+		.shp1 { opacity: 0.114;fill: #729fcf;stroke: #000000;stroke-linecap:round;stroke-linejoin:round;stroke-width: 10 } 
+		.shp2 { opacity: 0.404;fill: url(#grd2) } 
+		.shp3 { opacity: 0.404;fill: url(#grd3) } 
+		.shp4 { opacity: 0.404;fill: url(#grd4) } 
+		.shp5 { fill: url(#grd5) } 
+		.shp6 { fill: #ffffff;stroke: #000000;stroke-width: 10.34 } 
+		.shp7 { opacity: 0.392;fill: url(#grd6) } 
+		.shp8 { fill: url(#grd7);stroke: url(#grd8);stroke-width: 10 } 
+		.shp9 { fill: none;stroke: #a1a1a1;stroke-width: 10 } 
+		.shp10 { fill: #c8ce27;stroke: #a3a334;stroke-linejoin:round;stroke-width: 10 } 
+		.shp11 { fill: url(#grd9) } 
+		.shp12 { opacity: 0.522;fill: none;stroke: url(#grd10);stroke-linecap:round;stroke-width: 10 } 
+		.shp13 { fill: #ffffff } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M36.2 366.5C36.6 370.7 41.2 374.9 45.3 374.9L356.7 374.9C360.8 374.9 364.5 370.7 364.1 366.5L337.1 95.3C336.7 91.1 332.2 86.9 328 86.9L200.8 86.9C194.9 86.9 188.7 83.1 186.8 77.3L175.7 44.2C174.1 39.2 170.3 36.9 162.6 36.9L13.2 36.9C9.1 36.9 5.4 41.1 5.8 45.3L36.2 366.5L36.2 366.5Z" />
+			<g id="Layer">
+				<path id="Layer" class="shp1" d="M23.4 155.3L334.9 155.3" />
+				<path id="Layer" class="shp1" d="M43.3 355.3L343.2 355.3" />
+				<path id="Layer" class="shp1" d="M43.3 335.3L343.2 335.3" />
+			</g>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="shp2" d="M76.5 320.6L366.6 320.6L366.6 411.7L76.5 411.7L76.5 320.6Z" />
+			<path id="Layer" class="shp3" d="M366.6 320.7L366.6 411.7C397.5 411.9 441.4 391.3 441.4 366.2C441.4 341 406.9 320.7 366.6 320.7L366.6 320.7Z" />
+			<path id="Layer" class="shp4" d="M76.5 320.7L76.5 411.7C45.6 411.9 1.7 391.3 1.7 366.2C1.7 341 36.3 320.7 76.5 320.7L76.5 320.7Z" />
+		</g>
+	</g>
+	<path id="Layer" class="shp5" d="M51.7 364.2C52 367.3 50.2 369.4 47 368.3C43.8 367.3 41.5 365.2 41.2 362.1L10.9 48.5C10.6 45.3 12.4 43.5 15.5 43.5L163 42.6C168.4 42.5 170.4 43.1 171.8 47.7C171.8 47.7 182.7 78.9 184.3 84.7L168.7 55.5C166.1 50.6 162.8 51.4 159 51.4L27.7 51.4C24.6 51.4 22.8 53.5 23.1 56.6L52.9 365.2L51.7 364.2L51.7 364.2Z" />
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="shp1" d="M13.1 55.3L160.9 55.3" />
+			<path id="Layer" class="shp1" d="M17.6 95.3L325 95.3" />
+		</g>
+		<g id="Layer" style="opacity: 0.58">
+			<path id="Layer" class="shp6" d="M331.4 99.8C331 94.9 330.8 92.3 326.2 92.3L196.4 92.4C193.2 92.4 192.8 90.9 196.4 92.4C199.9 93.9 209.9 99.2 219.7 99.6L331.4 99.8L331.4 99.8Z" />
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="shp1" d="M21.6 135.3L329.9 135.3" />
+			<path id="Layer" class="shp1" d="M41.6 315.3L341.5 315.3" />
+			<path id="Layer" class="shp1" d="M38.7 295.3L339.7 295.3" />
+			<path id="Layer" class="shp1" d="M36.3 275.3L338 275.3" />
+			<path id="Layer" class="shp1" d="M34.6 255.3L336.3 255.3" />
+			<path id="Layer" class="shp1" d="M32.6 235.3L334.6 235.3" />
+			<path id="Layer" class="shp1" d="M30.2 215.3L332.9 215.3" />
+			<path id="Layer" class="shp1" d="M28.5 195.3L331.2 195.3" />
+		</g>
+		<g id="Layer" style="opacity: 0.58">
+			<path id="Layer" class="shp6" d="M331.4 99.8C331 94.9 330.8 92.3 326.2 92.3L196.4 92.4C193.2 92.4 192.8 90.9 196.4 92.4C199.9 93.9 209.9 99.2 219.7 99.6L331.4 99.8L331.4 99.8Z" />
+		</g>
+	</g>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="shp1" d="M19.6 115.3L329.9 115.3" />
+			<path id="Layer" class="shp1" d="M26.5 175.3L329.5 175.3" />
+			<path id="Layer" class="shp1" d="M15.2 75.3L168.1 75.3" />
+		</g>
+		<path id="Layer" class="shp7" d="M333.8 121.3L360 367.5L50 368.8L31.3 121.3L333.8 121.3Z" />
+	</g>
+	<path id="Layer" class="shp8" d="M423.8 4.9C428.8 173.7 333 190.2 363.6 294.9L48.8 303.8C30 175.3 132.5 91.7 102.5 6.5L423.8 4.9L423.8 4.9Z" />
+	<path id="Layer" class="shp9" d="M144.4 45.6L380 45.6" />
+	<path id="Layer" class="shp10" d="M38.5 370.7C39.6 372.8 41.7 374.9 44.8 374.9L377.8 374.9C379.9 374.9 383 373.6 384.9 372.2C390.2 368.3 391.5 366.1 393.8 362.5C418.3 325.4 451.9 169.7 451.9 169.7C452.9 167.6 450.9 165.5 447.8 165.5L98.5 165.5C95.4 165.5 82 326.6 49.9 358.4L37.5 370.7L38.5 370.7L38.5 370.7Z" />
+	<path id="Layer" class="shp9" d="M143.6 65.6L340.8 65.6" />
+	<path id="Layer" fill-rule="evenodd" class="shp11" d="M121.3 181.4C113.6 231.3 106.3 271.5 94.2 316.5C118 309.5 165.3 284.5 265.3 284.5C365.3 284.5 432.6 192 441.9 180.9L121.3 181.4L121.3 181.4Z" />
+	<g id="Layer">
+		<path id="Layer" class="shp9" d="M141.4 85.6L384.6 85.6" />
+		<path id="Layer" fill-rule="evenodd" class="shp12" d="M448.2 176.9L116.6 176.9C116.6 176.9 95.1 337.1 69.4 359.3C150.6 359.3 385.1 358.8 385.3 358.8C402.8 358.8 434.4 232.4 448.2 176.9L448.2 176.9Z" />
+		<g id="Layer">
+			<path id="Layer" class="shp9" d="M134 105.6L372.5 105.6" />
+			<path id="Layer" class="shp9" d="M126.3 125.6L359.8 125.6" />
+			<path id="Layer" class="shp9" d="M115.2 145.6L301.7 145.6" />
+		</g>
+	</g>
+	<path id="Layer" class="shp13" d="M53.8 297.5C41.3 175.1 125.6 106.9 110 10L418.8 10L118.8 16.3C131.3 111.9 56.8 162.7 53.8 297.5Z" />
+</svg>

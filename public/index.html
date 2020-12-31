@@ -1,20 +1,55 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pl">
   <head>
     <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <link rel="icon" href="%PUBLIC_URL%/user.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
     <meta
-      name="description"
-      content="Web site created using create-react-app"
+      name="DESCRIPTION"
+      content="Wszechstronne usługi developerskie w zakresie front-endu. ☎ +48733702632"
     />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <meta name="Prokektowanie stron internetowych." content="index, follow" />
+    <meta name="handheldFriendly" content="true" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="https://twitter.com/Ewa24286694" />
+    <meta
+      name="twitter:title"
+      content="Portal internetowy reklamujący 100 najlepszych firm i produktów na rynku lokalnym."
+    />
+    <meta
+      name="twitter:description"
+      content="Marketing, projektowanie i pozycjonowanie witryn internetowych, prowadzenie mediów społecznościowych. ☎ +48733702632"
+    />
+    <meta
+      name="twitter:image"
+      content="https://baza-firm.netlify.app/images/16.svg"
+    />
+    <meta
+      property="og:image"
+      content="https://baza-firm.netlify.app/images/12.svg"
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:title"
+      content="Ewa Gierczak-Kucharska - najlepsze firmy i produkty w mieście"
+    />
+    <meta property="og:url" content="https://baza-firm.netlify.app" />
+    <meta
+      property="og:description"
+      content="Baza firm aktywnych i nowatorskich na lokalnym rynku."
+    />
+    <meta
+      property="og:image"
+      content="https://baza-firm.netlify.app/images/18.svg"
+    />
+    <link rel="canonical" href="https://baza-firm.netlify.app" />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/user.svg" />
     <!--
       manifest.json provides metadata used when your web app is installed on a
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
     -->
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!-- <link rel="manifest" href="%PUBLIC_URL%/manifest.json" /> -->
     <!--
       Notice the use of %PUBLIC_URL% in the tags above.
       It will be replaced with the URL of the `public` folder during the build.
@@ -24,7 +59,7 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>React App</title>
+    <title>100 najlepszch firm i produktów w mieście</title>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -39,5 +74,46 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+    <!-- <script src="https://cdn.jsdelivr.net/scrollreveal.js/3.1.4/scrollreveal.min.js"></script>
+    <script>
+      window.sr = ScrollReveal();
+      sr.reveal("h1, .container, .space, h4, .social-item, p, .service-item", {
+        reset: true,
+        delay: 300,
+      });
+    </script> -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-176085449-1"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "UA-176085449-1");
+    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "100 najlepszych firm i produktów w mieście",
+        "url": "https://baza-firm.netlify.app",
+        "address": "26-610 Radom, praca zdalna",
+        "sameAs": [
+          "https://www.facebook.com/Najlepsze-firmy-w-mieście-108009641024656",
+          "https://www.instagram.com/najlepszefirmy",
+          "https://twitter.com/Ewa28502857",
+          "https://100-najlepszych-firm-w-miescie.business.site",
+          "https://www.youtube.com/channel/UCVVj8LcB23riwVRpnbgfnfw/videos",
+          "https://pl.pinterest.com/"
+        ]
+      }
+    </script>
+    <script src="https://skrypt-cookies.pl/id/bc97833d298d0954.js"></script>
   </body>
 </html>
