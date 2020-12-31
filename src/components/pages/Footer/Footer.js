@@ -93,7 +93,7 @@ function Footer() {
               💯
             </Link>
           </div>
-          <small className="website-rights">💯 2020 - 2021</small>
+          <small className="website-rights">💯 2020 - {new Date().getFullYear()}.</small>
           <div className="social-icons">
             <Link
               className="social-icon-link"
