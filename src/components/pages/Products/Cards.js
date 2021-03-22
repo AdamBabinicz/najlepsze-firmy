@@ -80,24 +80,24 @@ function Cards() {
                 }
               />
               <CardItem
-                src="images/woman.svg"
-                text="To miejsce czeka na Państwa firmę lub produkt"
-                label="Firma"
+                src="images/zamki.jpg"
+                text="Wynajem urządzeń rekreacyjnych"
+                label="Firma eventowa"
                 path=""
                 url={
-                  <a href="#" target="_blank">
-                    www.firma.pl
+                  <a href="https://zamki.netlify.app" target="_blank">
+                    zamki.netlify.app
                   </a>
                 }
               />
               <CardItem
-                src="images/woman.svg"
-                text="To miejsce czeka na Państwa firmę lub produkt"
-                label="Firma"
+                src="images/pralnia.jpg"
+                text="Pralnia stacjonarna i mobilna"
+                label="Firma usługowa"
                 path=""
                 url={
-                  <a href="#" target="_blank">
-                    www.firma.pl
+                  <a href="https://pranie-dywanow.netlify.app/" target="_blank">
+                    pranie-dywanow.netlify.app
                   </a>
                 }
               />
