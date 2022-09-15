@@ -46,8 +46,8 @@ function Cards() {
                 label="Ciasteczkowa GRAMA"
                 path=""
                 url={
-                  <a href="https://grama.000webhostapp.com" target="_blank">
-                    grama.000webhostapp.com
+                  <a href="https://grama.netlify.app" target="_blank">
+                    grama.netlify.app
                   </a>
                 }
               />
