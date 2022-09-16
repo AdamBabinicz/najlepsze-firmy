@@ -20,7 +20,7 @@ function Footer() {
           Dołącz do naszego ekskluzywnego członkostwa, aby pozyskiwać nowych
           Klientów
         </p>
-        <p className="footer-subscription-text">W naszym klubie są najleps!.</p>
+        <p className="footer-subscription-text">W naszym klubie są najleps!</p>
         <div className="input-areas">
           {/* <form>
             <input
@@ -93,7 +93,9 @@ function Footer() {
               💯
             </Link>
           </div>
-          <small className="website-rights">💯 2020 - {new Date().getFullYear()}.</small>
+          <small className="website-rights">
+            💯 2020 - {new Date().getFullYear()}.
+          </small>
           <div className="social-icons">
             <Link
               className="social-icon-link"
