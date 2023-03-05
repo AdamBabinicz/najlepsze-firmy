@@ -53,7 +53,7 @@ function Cards() {
               />
               <CardItem
                 src="images/font.jpg"
-                text="Wynajem fontann czekoladowych, białego dywanu do ślubu"
+                text="Wynajem fontanny czekoladowej"
                 label="Firma eventowa"
                 path=""
                 url={
