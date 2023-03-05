@@ -102,13 +102,13 @@ function Cards() {
                 }
               />
               <CardItem
-                src="images/woman.svg"
-                text="To miejsce czeka na Państwa firmę lub produkt"
-                label="Firma"
+                src="images/korepetycje.jpg"
+                text="Korepetycje z matematyki"
+                label="Firma edukacyjna"
                 path=""
                 url={
-                  <a href="#" target="_blank">
-                    www.firma.pl
+                  <a href="https://korepetycje.netlify.app" target="_blank">
+                    RAF-EDU
                   </a>
                 }
               />
