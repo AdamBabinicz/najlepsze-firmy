@@ -112,6 +112,17 @@ function Cards() {
                   </a>
                 }
               />
+              <CardItem
+                src="images/man.svg"
+                text="To miejsce czeka na Ciebie"
+                label="Firma"
+                path=""
+                url={
+                  <a href="" target="_blank">
+                    Twoja firma
+                  </a>
+                }
+              />
             </ul>
           </div>
         </div>
