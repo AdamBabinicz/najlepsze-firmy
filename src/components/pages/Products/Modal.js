@@ -32,9 +32,8 @@ function Modal() {
           nazwę firmy, adres i NIP.
         </p>
         <p>
-          Po złożeniu zamówienia prosimy o dokonanie wpłaty za usługę na konto
-          bankowe <b>00 0000 0000 0000 0000 0000 0000</b> z dopiskiem "Mój
-          Plan".
+          Po złożeniu zamówienia prosimy o dokonanie wpłaty za usługę na
+          wskazane konto bankowe z dopiskiem <b>"Mój Plan"</b>.
         </p>
         <p>
           Państwa firma lub produkt zostaną dodane do bazy natychmiast po
