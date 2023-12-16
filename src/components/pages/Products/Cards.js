@@ -18,7 +18,7 @@ function Cards() {
             <ul className="cards__items">
               <CardItem
                 src="images/mobilna.jpg"
-                text="Pranie dywanów, tapicerki samochodowej i meblowej, czyszczenie posadzek, płytek i kostki brukowej"
+                text="Pranie dywanów, tapicerki meblowej, czyszczenie posadzek, płytek i kostki brukowej"
                 label="Mobilna pralnia SUPER PUCUŚ"
                 path=""
                 url={
@@ -29,7 +29,7 @@ function Cards() {
               />
               <CardItem
                 src="images/mis.jpg"
-                text="Wynajem zamków i zjeżdżalni dmuchanych, organizacja eventów"
+                text="Wynajem namiotów imprezowych, zamków i zjeżdżalni dmuchanych, organizacja eventów"
                 label="SŁODKOLANDIA wita:"
                 path=""
                 url={
@@ -38,8 +38,7 @@ function Cards() {
                   </a>
                 }
               />
-            </ul>
-            <ul className="cards__items">
+
               <CardItem
                 src="images/grama.jpg"
                 text="Korepetycje z języka angielskiego, materiały edukacyjne dla nauczycieli i uczniów"
@@ -65,6 +64,7 @@ function Cards() {
                   </a>
                 }
               />
+
               <CardItem
                 src="images/popcorn.jpg"
                 text="Wynajem urządzeń do popcornu i waty cukrowej"
@@ -90,6 +90,7 @@ function Cards() {
                   </a>
                 }
               />
+
               <CardItem
                 src="images/pralnia.jpg"
                 text="Pralnia stacjonarna i mobilna"
@@ -112,6 +113,7 @@ function Cards() {
                   </a>
                 }
               />
+
               <CardItem
                 src="images/man.svg"
                 text="To miejsce czeka na Ciebie"
