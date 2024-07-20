@@ -113,7 +113,20 @@ function Cards() {
                   </a>
                 }
               />
-
+              <CardItem
+                src="images/namioty.jpg"
+                text="Wynajem namiotów imprezowych, stołów, krzeseł i oświetlenia do namiotów"
+                label="Firma usługowa"
+                path=""
+                url={
+                  <a
+                    href="https://wynajem-namiotow.netlify.app"
+                    target="_blank"
+                  >
+                    Wynajem namiotów
+                  </a>
+                }
+              />
               <CardItem
                 src="images/man.svg"
                 text="To miejsce czeka na Ciebie"
