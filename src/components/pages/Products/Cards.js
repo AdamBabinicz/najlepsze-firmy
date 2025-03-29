@@ -66,16 +66,16 @@ function Cards() {
               />
 
               <CardItem
-                src="images/popcorn.jpg"
-                text="Wynajem urządzeń do popcornu i waty cukrowej"
+                src="images/projekt-namioty2.png"
+                text="Wynajem namiotów imprezowych"
                 label="Firma eventowa"
                 path=""
                 url={
                   <a
-                    href="https://www.slodkolandia.cba.pl/dmuchance-popcorn-warszawa-lublin-kielce-radom"
+                    href="https://namioty-imprezowe.netlify.app"
                     target="_blank"
                   >
-                    firma eventowa
+                    namioty-imprezowe.netlify.app
                   </a>
                 }
               />
