@@ -133,7 +133,10 @@ function Cards() {
                 label="Firma handlowa"
                 path=""
                 url={
-                  <a href="https://second-hand-new.pl" target="_blank">
+                  <a
+                    href="https://mathmentor-app.onrender.com/"
+                    target="_blank"
+                  >
                     Math Mentor
                   </a>
                 }
