@@ -129,7 +129,7 @@ function Cards() {
               />
               <CardItem
                 src="images/korki.png"
-                text="Korepetycje z matematyki. Rezerwacje terminów online."
+                text="Korepetycje z matematyki. Rezerwacje terminów online"
                 label="Firma edukacyjna"
                 path=""
                 url={
