@@ -128,13 +128,13 @@ function Cards() {
                 }
               />
               <CardItem
-                src="images/shn.jpg"
-                text="Kupuj używane artykuły w doskonałym stanie: odzież, foteliki samochodowe, wózki dziecięce, nosidełka i wiele innych produktów."
+                src="images/korki.jpg"
+                text="Korepetycje z matematyki. Rezerwacje terminów online."
                 label="Firma handlowa"
                 path=""
                 url={
                   <a href="https://second-hand-new.pl" target="_blank">
-                    Second Hand & New
+                    Math Mentor
                   </a>
                 }
               />
